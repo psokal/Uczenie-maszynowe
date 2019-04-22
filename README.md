@@ -1,1 +1,1 @@
-#Uczenie maszynowe
+# Uczenie maszynowe
